@@ -1,1 +1,2 @@
-# Graph_Algorithm_Visualiser
+# PathFinder
+Path Visualiser
